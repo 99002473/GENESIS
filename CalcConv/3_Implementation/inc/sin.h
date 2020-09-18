@@ -1,6 +1,6 @@
-#ifndef __SIN_H__
-#define __SIN_H__
+#ifndef __SINVAL_H__
+#define __SINVAL_H__
 
-int sin(int operand1);
+int sinval(int operand1);
 
 #endif

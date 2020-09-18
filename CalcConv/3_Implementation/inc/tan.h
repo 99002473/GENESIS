@@ -1,6 +1,6 @@
-#ifndef __TAN_H__
-#define __TAN_H__
+#ifndef __TANVAL_H__
+#define __TANVAL_H__
 
-int tan(int operand1);
+int tanval(int operand1);
 
 #endif
