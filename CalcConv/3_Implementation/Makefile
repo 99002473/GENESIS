@@ -18,7 +18,7 @@ main.c
 
 INC= -Iinc
 
-PROJECT_NAME = calc.exe
+PROJECT_NAME = calcconv.exe
 
 $(PROJECT_NAME): $(SRC)
 	gcc $(SRC) $(INC)  -o $(PROJECT_NAME)
