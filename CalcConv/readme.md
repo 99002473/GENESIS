@@ -1,3 +1,6 @@
-#Project Information
+#Project on Calculator
 
-*Designing a calculator and converter system *Calculator consists of basic function *Converter provides handy conversion functionality
+*Designing a calculator and converter system 
+*Calculator consists of basic function 
+*Scientific calculators consists of advance options.
+*Converter provides handy conversion functionality
