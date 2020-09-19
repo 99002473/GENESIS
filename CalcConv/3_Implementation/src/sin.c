@@ -1,4 +1,4 @@
-#include "sinval.h"
+#include "sin.h"
 #include <stdio.h>
 #include <math.h>
 

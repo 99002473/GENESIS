@@ -1,4 +1,4 @@
-#include "cosval.h"
+#include "cos.h"
 #include <stdio.h>
 #include <math.h>
 

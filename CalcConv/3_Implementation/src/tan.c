@@ -1,4 +1,4 @@
-#include "tanval.h"
+#include "tan.h"
 #include <stdio.h>
 #include <math.h>
 

@@ -1,4 +1,4 @@
-#include "avg.h"
+#include "average.h"
 #include <stdio.h>
 
 int avg(int a, int b)

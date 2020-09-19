@@ -1,4 +1,4 @@
-#include "logval.h"
+#include "log.h"
 #include <stdio.h>
 #include <math.h>
 

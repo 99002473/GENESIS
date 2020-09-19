@@ -1,4 +1,4 @@
-#include "secval.h"
+#include "sec.h"
 #include <stdio.h>
 #include <math.h>
 

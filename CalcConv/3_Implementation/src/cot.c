@@ -1,4 +1,4 @@
-#include "cotval.h"
+#include "cot.h"
 #include <stdio.h>
 #include <math.h>
 

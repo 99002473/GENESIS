@@ -1,4 +1,4 @@
-#include "cosecval.h"
+#include "cosec.h"
 #include <stdio.h>
 #include <math.h>
 

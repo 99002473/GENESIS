@@ -1,4 +1,4 @@
-#include "per.h"
+#include "percent.h"
 #include <stdio.h>
 
 int per(int a)
