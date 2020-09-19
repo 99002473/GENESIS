@@ -14,7 +14,7 @@ src/tan.c\
 src/sec.c\
 src/cosec.c\
 src/cot.c\
-main.c
+calcconv.c
 
 INC= -Iinc
 
