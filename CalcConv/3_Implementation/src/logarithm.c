@@ -4,5 +4,7 @@
 
 int logval(int a)
 {
-    return(log(a));
+    int r;
+    r=log10(a)
+    return r;
 }
