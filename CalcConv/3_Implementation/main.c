@@ -36,7 +36,7 @@ int main()
 {
     int ch,op1,op2,res;
     printf("Enter the operation you want to perform\n");
-    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Average\n6. Power\n7. Root\n8. Percent\n9. Root\n10. Percent\n11. Factoial\n12. Cos\n13. Sin\n14. Tan\n15. Cosec\n16. Sec\n17. Cot\n18. Exit\n");
+    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Average\n6. Power\n7. Root\n8. Percent\n9. Root\n10. Percent\n11. Factoial\n12. Cos\n13. Sin\n14. Tan\n15. Cosec\n16. Sec\n17. Cot\n18. Log\n19. Exit\n");
     scanf("%d",&ch);
     switch (ch)
     {
@@ -121,11 +121,16 @@ int main()
              res=secval(op1);
              break;
         case 17:
-            printf("enter the number\n");
+             printf("enter the number\n");
              scanf("%d",&op1);
              res=cotval(op1);
              break;
         case 18:
+             printf("enter the number\n");
+             scanf("%d",&op1);
+             res=logval(op1);
+             break;
+        case 19:   
             break;   
         default:
             break;
