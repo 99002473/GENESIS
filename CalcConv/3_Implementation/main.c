@@ -135,5 +135,5 @@ int main()
         default:
             break;
     }
-    printf("\n The result of the operation is %d \n"res);
+    printf("\n The result of the operation is %d \n",res);
 }
