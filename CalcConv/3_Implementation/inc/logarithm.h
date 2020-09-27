@@ -1,6 +1,6 @@
-#ifndef __LOG_H__
-#define __LOG_H__
+#ifndef __LOGVAL_H__
+#define __LOGVAL_H__
 
-int log(int operand1);
+int logval(int operand1);
 
 #endif
