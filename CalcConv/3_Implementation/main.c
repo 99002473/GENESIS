@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "addition.h"
 #include "subtract.h"
 #include "multiplication.h"
@@ -7,7 +8,7 @@
 #include "power.h"
 #include "factorial.h"
 #include "root.h"
-#include "log.h"
+#include "logarithm.h"
 #include "sin.h"
 #include "cos.h"
 #include "tan.h"
