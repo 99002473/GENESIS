@@ -5,6 +5,6 @@
 int logval(int a)
 {
     int r;
-    r=log(a)
+    r=log(a);
     return r;
 }
