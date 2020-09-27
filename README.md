@@ -4,3 +4,4 @@
 
 ![C/C++ CI](https://github.com/99002473/GENESIS/workflows/C/C++%20CI/badge.svg)
 ![cppcheck-action](https://github.com/99002473/GENESIS/workflows/cppcheck-action/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/eaa6ab84e3a44a8c86c7e13a55af33df)](https://www.codacy.com/manual/99002473/GENESIS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002473/GENESIS&amp;utm_campaign=Badge_Grade)
